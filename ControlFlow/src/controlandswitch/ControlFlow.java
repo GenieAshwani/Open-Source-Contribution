@@ -42,7 +42,7 @@ public class ControlFlow {
                 }
             }
             else {
-                System.out.println("a is greater then 100");
+
             }
         }
     }
