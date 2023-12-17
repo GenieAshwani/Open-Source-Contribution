@@ -42,7 +42,8 @@ public class ControlFlow {
                 }
             }
             else {
-                System.out.println("a not equal to 10");
+                System.out.println("else is recrated by vishnu reddy");
+
             }
         }
     }
